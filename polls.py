@@ -1,4 +1,4 @@
-polls=['abc','def','ghi','jkl','mno','pqr','stu','vwx','yz1','abc','def','ghi','abc','def','ghi','abc','def']
+polls=['abc','def','ghi','jkl','mno','pqr','stu','vwx','yz1','abc','def','ghi','abc','def','ghi','abc','def','abc','abc']
 
 candidates=[]
 
